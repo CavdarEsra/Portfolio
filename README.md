@@ -5,9 +5,7 @@
 * JAVASCRIPT
 * Scrool Reveal
 ### Screenshot Of Website 
-![Ekran resmi1](/Commerce1.png)
-![Ekran resmi2](/Commerce2.png)
-![Ekran resmi3](/Commerce3.png)
-![Ekran resmi4](/Commerce4.png)
-![Ekran resmi5](/Commerce5.png)
-![Ekran resmi6](/Commerce6.png)
+![Ekran resmi1](https://github.com/CavdarEsra/Portfolio/blob/main/Pr1.png)
+![Ekran resmi2](https://github.com/CavdarEsra/Portfolio/blob/main/Pr2.png)
+![Ekran resmi3](https://github.com/CavdarEsra/Portfolio/blob/main/Pr3.png)
+![Ekran resmi4](https://github.com/CavdarEsra/Portfolio/blob/main/Pr4.png)
