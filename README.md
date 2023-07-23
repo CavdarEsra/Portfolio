@@ -4,6 +4,7 @@
 * CSS 
 * JAVASCRIPT
 * Scrool Reveal
+* email.js
 ### Screenshot Of Website 
 ![Ekran resmi1](https://github.com/CavdarEsra/Portfolio/blob/main/Pr1.png)
 ![Ekran resmi2](https://github.com/CavdarEsra/Portfolio/blob/main/Pr2.png)
